@@ -1,3 +1,5 @@
+_See the Wiki tab for guides_
+
 # Navigating-the-Farm-Data-Standards
 Guides for navigating and interpreting the Farm Data Standards
 ##Which Guide to Use?
