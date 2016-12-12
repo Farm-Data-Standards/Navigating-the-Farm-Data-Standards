@@ -39,7 +39,7 @@ This standard relates to the management of Health and Safety on farm.
 The standard addresses:
 *	Hazards and Risks; including Activity, AgriBuilding/Installation, Biological, Climatic/Natural, Environmental, Equipment, Hazardous Substance, and Vehicles.
 *	People and Roles 
-*	Events; including Audit/Review, Environmental, Maintenance, Inspection, Notifiable Event, ‘Accident, Incident or Near Miss, Training, Meeting, and Reports.
+*	Events; including Audit/Review, Environmental, Maintenance, Inspection, Notifiable Event, 'Accident, Incident or Near Miss', Training, Meeting, and Reports.
 
 ##Irrigation & Effluent Data Standard 
 This standard addresses the following areas:
