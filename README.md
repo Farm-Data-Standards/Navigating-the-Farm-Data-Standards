@@ -1,4 +1,4 @@
-_See the Wiki tab for guides_
+_See the [Wiki tab](https://github.com/Farm-Data-Standards/Navigating-the-Farm-Data-Standards/wiki) for guides_
 
 # Navigating-the-Farm-Data-Standards
 Guides for navigating and interpreting the [Farm Data Standards](http://www.farmdatastandards.org.nz/data-standards/)
