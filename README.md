@@ -1,7 +1,7 @@
 _See the Wiki tab for guides_
 
 # Navigating-the-Farm-Data-Standards
-Guides for navigating and interpreting the ![Farm Data Standards](http://www.farmdatastandards.org.nz/data-standards/)
+Guides for navigating and interpreting the [Farm Data Standards](http://www.farmdatastandards.org.nz/data-standards/)
 ##Which Guide to Use?
 With a growing number of farm data standards available, with overlapping properties within each standard, it can be difficult to determine which guide will contain the information you're looking for. Below is an overview for each standard including a description and key features within each guide to help you find what you're looking for.
 
